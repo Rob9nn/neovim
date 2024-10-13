@@ -24,3 +24,5 @@ leader key = \<space\>
 |\<leader\>fh|help tags|
 |\<leader\>gf|format|
 |\<leader\>n|open neotree|
+|\<Tab\>|next buffer|
+|\<S-Tab\>|previous buffer|

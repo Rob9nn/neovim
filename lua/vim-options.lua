@@ -7,3 +7,6 @@ vim.cmd("set cursorline")
 
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
+
+vim.keymap.set('n', '<Tab>', ':bnext<CR>', {})
+vim.keymap.set('n', '<S-Tab>', ':bprev<CR>', {})
